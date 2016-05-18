@@ -1,0 +1,33 @@
+
+
+/*-__________ Top-level styles __________-*/
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+
+/*-__________ Header styles __________-*/
+
+
+
+
+/*-__________ Main content area styles __________-*/
+
+select {
+	width: 100%;
+}
+
+.row {
+	margin-bottom: 50px;
+}
+
+
+
+

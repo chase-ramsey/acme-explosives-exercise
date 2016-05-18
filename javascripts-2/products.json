@@ -1,0 +1,143 @@
+
+{
+  "products": [
+  	{
+    	"fairy_sparklers":
+    		{
+          "id": 0,
+          "type": 0,
+          "name": "Fairy Sparklers",
+          "description": "Multi-colored sparklers that are safe for any age."
+      	},
+    	"dragon_snappers":
+      	{
+      		"id": 1,
+      		"type": 0,
+      		"name": "Dragon Snappers",
+      		"description": "Those things you throw at the ground and they snap loudly; remember&mdash;from fall festivals?"
+      	},
+    	"fire_boomers":
+      	{
+      		"id": 2,
+      		"type": 0,
+      		"name": "Fire Boomers",
+      		"description": "They're pretty much what the name implies: they create fire and a lot of noise."
+      	}
+    },
+    {
+    	"gaga":
+	    	{
+	    		"id": 3,
+	    		"type": 1,
+	    		"name": "The Gaga",
+	    		"description": "Crazy silver bursts that make even meat dresses seem tame."
+	    	},
+    	"prince":
+	    	{
+	    		"id": 4,
+	    		"type": 1,
+	    		"name": "The Prince",
+	    		"description": "Soothe any audience's soul with a lovely purple shower of sparks."
+	    	},
+    	"nickelback":
+	    	{
+	    		"id": 5,
+	    		"type": 1,
+	    		"name": "The Nickelback",
+	    		"description": "These pyrotechnics will do anything to distract you from the deep realms of despair lying under Nickelback's music."
+	    	}
+    },
+    {
+    	"fourth_medium":
+	    	{
+	    		"id": 6,
+	    		"type": 2,
+	    		"name": "Fourth of July (MED)",
+	    		"description": "Take your town's 4th of July celebration up a notch."
+	    	},
+    	"fourth_large":
+	    	{
+	    		"id": 7,
+	    		"type": 2,
+	    		"name": "Fourth of July (LG)",
+	    		"description": "Show the city a light show they won't soon forget."
+	    	},
+    	"independence":
+	    	{
+	    		"id": 8,
+	    		"type": 2,
+	    		"name": "Independence Day",
+	    		"description": "Pyrotechnics created for that moment in Indepedence Day when Will Smith says, 'WELCOME TO EARTH.'"
+	    	}
+    },
+    {
+    	"house":
+	    	{
+	    		"id": 9,
+	    		"type": 3,
+	    		"name": "House Demo",
+	    		"description": "Need to show that pesky neighbor who's boss? Look no further."
+	    	},
+    	"building":
+	    	{
+	    		"id": 10,
+	    		"type": 3,
+	    		"name": "Building Demo",
+	    		"description": "Take part in the city's endless cycle of recreation and blow up something big (with the proper permits, of course)."
+	    	},
+    	"city":
+	    	{
+	    		"id": 11,
+	    		"type": 3,
+	    		"name": "City Demo",
+	    		"description": "Sometimes you don't want a city and what you want is a big rocky hole instead."
+	    	}
+    },
+    {
+    	"goofbomb":
+	    	{
+	    		"id": 12,
+	    		"type": 4,
+	    		"name": "Goofbomb",
+	    		"description": "This is just a bunch of red candles wrapped in a giant wristwatch, but if your hostages don't have their glasses on, they might be scared."
+	    	},
+    	"rocket":
+	    	{
+	    		"id": 13,
+	    		"type": 4,
+	    		"name": "Rocket Maybe",
+	    		"description": "Q: Is it a bomb or a rocket? A: It's a papier-mache thing that could either look like a bomb or a rocket."
+	    	},
+    	"traditionale":
+	    	{
+	    		"id": 14,
+	    		"type": 4,
+	    		"name": "The Traditionale",
+	    		"description": "A beautiful bowling ball the color of fire-ripened obsidian, topped with the finest fake fuse money can buy."
+	    	}
+    },
+    {
+    	"tnt":
+	    	{
+	    		"id": 15,
+	    		"type": 5,
+	    		"name": "TNT Box",
+	    		"description": "This box has a lever on top that you can push and then something explodes."
+	    	},
+    	"anvil":
+	    	{
+	    		"id": 16,
+	    		"type": 5,
+	    		"name": "Anvil",
+	    		"description": "This is a very heavy thing you can drop from a great height and then maybe later something explodes."
+	    	},
+    	"fake_hole":
+	    	{
+	    		"id": 17,
+	    		"type": 5,
+	    		"name": "Fake Hole",
+	    		"description": "It's a fake hole you can put on the side of a large rock face and then maybe it explodes."
+	    	}
+    }
+  ]
+}
