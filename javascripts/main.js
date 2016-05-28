@@ -27,13 +27,13 @@ $filter.click(function() {
 
 // Fetch data
 
-Acme.fetchData("javascripts/categories.json")
+Acme.fetchData("https://cdn.rawgit.com/chase-ramsey/acme-explosives-exercise/master/javascripts/categories.json")
 	.then((data1) => {
 		categories = data1;
-		return Acme.fetchData("javascripts/types.json");
+		return Acme.fetchData("https://cdn.rawgit.com/chase-ramsey/acme-explosives-exercise/master/javascripts/types.json");
 	}).then((data2) => {
 		types = data2;
-		return Acme.fetchData("javascripts/products.json");
+		return Acme.fetchData("https://cdn.rawgit.com/chase-ramsey/acme-explosives-exercise/master/javascripts/products.json");
 	}).then((data3) => {
 		products = data3;
 		Acme.buildTable(products.products.length);
