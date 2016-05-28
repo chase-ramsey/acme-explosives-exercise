@@ -1,0 +1,13 @@
+{
+  "name": "acme-explosives",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Chase Ramsey <ramsey.chase@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "devDependencies": {
+    "jquery": "^2.2.3"
+  }
+}

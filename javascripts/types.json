@@ -1,0 +1,41 @@
+
+{
+    "types": [
+        {
+          "id": 0,
+          "category": 0,
+          "name": "Personal",
+          "description": "Fireworks intended for recreational use during holiday celebrations"
+        },
+        {
+        	"id": 1,
+        	"category": 0,
+        	"name": "Professional",
+        	"description": "Fireworks designed for seasoned professionals, for use in concerts etc."
+        },
+        {
+        	"id": 2,
+        	"category": 0,
+        	"name": "Festival",
+        	"description": "This special division designs products specifically for major city gatherings and events."
+        },
+        {
+        	"id": 3,
+        	"category": 1,
+        	"name": "Construction",
+        	"description": "These explosives were created for industrial and construction use only."
+        },
+        {
+        	"id": 4,
+        	"category": 1,
+        	"name": "Supervillain",
+        	"description": "These are the perfect goofy, giganitic bombs for the supervillain on-the-go."
+        },
+        {
+        	"id": 5,
+        	"category": 1,
+        	"name": "Wiley",
+        	"description": "We developed this creative line for coyotes who just can't seem to nab that roadrunner they're after."
+        }
+    ]
+}
